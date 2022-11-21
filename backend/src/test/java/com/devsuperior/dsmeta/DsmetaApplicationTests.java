@@ -9,5 +9,4 @@ class DsmetaApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
